@@ -1,0 +1,15 @@
+/bin
+/etc
+/include
+/lib
+/mingw
+/postinstall
+/sbin
+/share
+config.yml
+devkitvars.bat
+devkitvars.ps1
+dk.rb
+m.ico
+msys.bat
+msys.ico

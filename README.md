@@ -2,5 +2,7 @@
 
 ###learning
 
+one   安装完成
+
 
 
