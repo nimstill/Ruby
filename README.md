@@ -4,5 +4,6 @@
 
 one   安装完成
 
+dayOne done
 
 
